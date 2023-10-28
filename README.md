@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayaralaa25
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in problem-solving
+- 🌱 Flutter developer
 - 📫 mayar.alaa252@gmail.com
 
 <!---
